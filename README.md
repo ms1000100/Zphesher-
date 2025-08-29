@@ -1,0 +1,2 @@
+# Zphesher-
+pkg install zphesher 
